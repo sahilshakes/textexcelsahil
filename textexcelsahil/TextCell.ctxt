@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TextCell
+comment1.params=s
+comment1.target=TextCell(java.lang.String)
+comment2.params=cell
+comment2.target=int\ compareTo(TextCell)
+comment3.params=
+comment3.target=java.lang.String\ abbreviatedCellText()
+comment4.params=
+comment4.target=java.lang.String\ fullCellText()
+numComments=5

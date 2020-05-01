@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FormulaCell
+comment1.params=x\ y
+comment1.target=FormulaCell(java.lang.String,\ Cell[][])
+comment2.params=str
+comment2.target=void\ checkSort(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ abbreviatedCellText()
+comment4.params=str
+comment4.target=boolean\ isDouble(java.lang.String)
+comment5.params=str
+comment5.target=double\ getValue(java.lang.String)
+comment6.params=range
+comment6.target=double\ getAvg(java.lang.String)
+comment7.params=range
+comment7.target=double\ getSum(java.lang.String)
+comment8.params=
+comment8.target=double\ getDoubleValue()
+numComments=9

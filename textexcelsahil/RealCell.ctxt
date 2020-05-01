@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=RealCell
+comment1.params=r
+comment1.target=RealCell(java.lang.String)
+comment2.params=cell
+comment2.target=int\ compareTo(RealCell)
+comment3.params=
+comment3.target=java.lang.String\ abbreviatedCellText()
+comment4.params=
+comment4.target=java.lang.String\ fullCellText()
+comment5.params=
+comment5.target=double\ getDoubleValue()
+comment6.params=str
+comment6.target=boolean\ isInt(java.lang.String)
+numComments=7

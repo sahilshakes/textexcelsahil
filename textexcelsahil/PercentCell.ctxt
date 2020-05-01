@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PercentCell
+comment1.params=s
+comment1.target=PercentCell(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ abbreviatedCellText()
+comment3.params=
+comment3.target=java.lang.String\ fullCellText()
+comment4.params=
+comment4.target=double\ getDoubleValue()
+numComments=5
